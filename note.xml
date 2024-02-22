@@ -1,0 +1,22 @@
+//GlOBALS - NO WINDOW!!!
+
+//__dirname - path to current directoruy
+//__filename - file name
+//require - fuction to use module (commonJS)
+//module - info about current module (file)
+//process - info about env where the program is being executed
+
+OS
+PATH 
+FS
+HTTP
+
+//npm - global command, come with node
+//npm --version
+
+//local dependency - use it only in this particular project
+//npm i <packageName>
+
+//global dependency - use it in any project
+//npm install -g <packageNAme>
+//sudo npm install -g ,packageNAme>(mac)
